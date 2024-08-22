@@ -1,7 +1,3 @@
-# Snake and Apple Game
-# Created by: [Subhranil Banerjee]
-# Date: [17.08.2024]
-
 import pygame
 from pygame.locals import *
 import time
